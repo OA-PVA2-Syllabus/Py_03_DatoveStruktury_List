@@ -8,4 +8,5 @@ animals.append("dino")   # Přidání další položky do seznamu pomocí metody
 print(animals)
 
 # Nahraďte původní "dino" za "dinosaurus".
+# Pro nalezení indexu prvku v seznamu můžete použít metodu index().
 print(animals)

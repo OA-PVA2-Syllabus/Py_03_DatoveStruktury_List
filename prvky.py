@@ -1,6 +1,5 @@
 # Přiřazení je možné k řezům seznamů, stejně jako k jednotlivým prvkům seznamu.
 # Tímto způsobem lze dokonce měnit velikost seznamu nebo jej zcela vymazat pomocí příkazu animals[:] = []
-Make all animals elephants by replacing the last two items.
 
 animals = ["elephant", "lion", "tiger", "giraffe", "monkey", "dog"]  # Vytvoření nového seznamu
 print(animals)
